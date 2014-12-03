@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using FFCG.OcdOrganizer.Domain;
 
-namespace FFCG.OcdOrganizer.Api
+namespace FFCG.OcdOrganizer.Api.DemoStuff
 {
     public interface IOcdEventsRepository
     {

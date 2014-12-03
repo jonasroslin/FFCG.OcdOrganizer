@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using FFCG.OcdOrganizer.Domain;
 
-namespace FFCG.OcdOrganizer.Api
+namespace FFCG.OcdOrganizer.Api.DemoStuff
 {
     public class OcdEventInMemory : IOcdEventsRepository
     {

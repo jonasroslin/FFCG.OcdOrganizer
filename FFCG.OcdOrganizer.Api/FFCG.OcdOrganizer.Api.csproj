@@ -42,8 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IOcdEventsRepository.cs" />
-    <Compile Include="OcdEventInMemory.cs" />
+    <Compile Include="DefaultLogger.cs" />
+    <Compile Include="DemoStuff\IOcdEventsRepository.cs" />
+    <Compile Include="DemoStuff\OcdEventInMemory.cs" />
+    <Compile Include="ILogger.cs" />
     <Compile Include="OcdEvents.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

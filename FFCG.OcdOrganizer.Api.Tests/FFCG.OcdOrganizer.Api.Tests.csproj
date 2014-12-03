@@ -60,9 +60,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="OcdEventsTests.cs" />
+    <Compile Include="When_getting_events.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestableBootStrapper.cs" />
+    <Compile Include="When_getting_event_by_id.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
